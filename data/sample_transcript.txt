@@ -1,0 +1,16 @@
+2024-06-18 09:00:02 | Agent | Morning, quick sync before the client call?
+2024-06-18 09:00:10 | Customer | Yes.
+2024-06-18 09:00:14 | Support | Ready.
+2024-06-18 09:01:03 | Agent | Agenda is timeline, risks, and handoff. Keep it tight.
+2024-06-18 09:01:20 | Customer | I can cover risks, but [interrupts] the vendor still hasn't confirmed dates.
+2024-06-18 09:01:35 | Support | That delay is bad, but we have a backup plan.
+2024-06-18 09:02:12 | Agent | Great. Let's say we are confident and emphasize next steps.
+2024-06-18 09:02:30 | Customer | Quick note: the demo went well and the client seemed happy.
+2024-06-18 09:03:05 | Support | I disagree on "confident"—[interrupts] we should say "cautiously optimistic."
+2024-06-18 09:03:40 | Agent | Fair point. We'll phrase it that way.
+2024-06-18 09:04:10 | Customer | Also, follow-up email by end of day.
+2024-06-18 09:05:00 | Support | Okay.
+2024-06-18 09:05:20 | Agent | Any blockers?
+2024-06-18 09:05:35 | Customer | None on my side.
+2024-06-18 09:06:00 | Support | The handoff doc is long, but it's clear and should help support.
+2024-06-18 09:06:30 | Agent | Thanks everyone. Let's close.
