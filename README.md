@@ -19,3 +19,10 @@ python analyzer.py
 Output:
 - `report.md` generated in the project root
 - Console summary of key metrics
+
+Demo uses a short sample transcript for clarity; the same analysis scales to larger exports.
+
+## Demo artifacts
+- `assets/report_sample.md` generated from `data/sample_transcript.txt`
+- `assets/console_output.txt` captured from the CLI run
+- `assets/architecture_notes.md` design notes

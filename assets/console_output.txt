@@ -1,0 +1,24 @@
+Conversation Intelligence Summary
+-------------------------------
+Total messages: 16
+Total words: 109
+Average message length (words): 6.81
+Key takeaway: Participation is fairly balanced. Tone shows elevated friction.
+Flags: Friction detected, High overlap / interruptions
+Messages per speaker:
+- Agent: 6
+- Customer: 5
+- Support: 5
+Dominance ratio (word share):
+- Agent: 35.8%
+- Customer: 33.0%
+- Support: 31.2%
+Interruptions:
+- Total: 2
+- Customer: 1
+- Support: 1
+Sentiment (rule-based):
+- Positive: 5
+- Neutral: 7
+- Negative: 4
+Report written to report.md
